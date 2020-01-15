@@ -19,7 +19,7 @@ Flight::start();
 
 Flight requires `PHP 5.3` or greater.
 
-# License
+# License lol
 
 Flight is released under the [MIT](http://flightphp.com/license) license.
 
