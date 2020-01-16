@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>BookCorner</title>
+    <title>Hemingway</title>
    <META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=UTF-8">
-    <title>BookCorner</title>
+    
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
     <link rel="stylesheet" href="style.css">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
@@ -12,7 +12,7 @@
 
   <body>
         <div id="header">
-            <img class="h_img" src="https://s31523.pcdn.co/wp-content/uploads/2019/09/201901_blog_bookseveryptshouldread.png" width = "1550" height="400"alt="" />
+            <img class="h_img" src="https://www.tacton.com/wp-content/uploads/2015/09/Pic_Newspaper_iStock_000042073226_1600x400-1600x400.jpg" width = "1550" height="400"alt="" />
 
             <nav class="navbar navbar-default">
                 <div class="container-fluid">
