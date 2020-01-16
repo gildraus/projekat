@@ -3,18 +3,18 @@ require "php/config.php";
 require "korisnik/template/header.php";
 ?>
 
-    <div class="container">
+<div class="container">
       <div class="row">
 
         <div class="row_header">
-          <h1>KNJIŽARA MS</h1>
+          <h1>Hemingway</h1>
           <br>
         </div>
           				<div class="col-xs-8 col-sm-8 col-md-8 col-lg-8">
 
                         <div class="post">
                               <div class="post_title">
-                                <h2>Najpopularniji naslovi:</h2>
+                                <h2>USKORO KOD NAS:</h2>
                               </div>
                               <div class="post_body">
                                       <?php include "carousel.php" ?>
@@ -28,21 +28,20 @@ require "korisnik/template/header.php";
 							  <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
                                     <div class="thumbnail">
                                       <div class="post_title">
-                                        Nagradna igra!
+                                      PROMOCIJA KNJIGE BOJANA JOKANOVIĆA U BEOGRADU, KRAGUJEVCU I NIŠU
                                       </div>
-                                      <img src="img/nagradnaIgra.jpg" class="img-responsive" alt="negujemo" style="border-radius:8px;">
+                                      <img src="http://www.knjizare-vulkan.rs/files/images/900_Jokanovic_promocija.jpg" class="img-responsive" alt="negujemo" style="border-radius:8px;">
                                       <div class="caption">
                                         <p>
-                                          Bliže se praznici i pravo je vreme da pronađete poklon dragoj osobi ili sebi,a nema lepšeg poklona od dobre knjige. Zbog toga, knjižara MS poklanja 10 knjiga.Za učestvovanje u nagradnoj igri, potrebno je da zapratite našu Facebook stranicu, odgovorite na pitanja mini kviza koji je postavljen na vrhu stranice i prosledite nam odgovore.
+                                        Pozivamo sve borce za pravopis da nam se pridruže na potpisivanju knjige Bojana Jokanovića 100 Sizifovih pravopisnih pravila
                                         </p>
                                         <details><summary>Opširinije</summary>
-                                        <p> Kviz je danas postavljen na našoj Facebook stranici i biće aktivan do 28.12.2018 22:00h.Pitanja su vezana za istoriju književnosti.Dobitnici će biti objavljeni 29.12.2018.
-											Dobitnici imaju mogućnost da izaberu bilo koju knjigu iz naše baze.
+                                        <p> Knjiga 100 Sizifovih pravopisnih pravila i edukativne karte Sizifova pravopisna pravila bile su najprodavanije na ovogodišnjem Međunarodnom beogradskom sajmu knjiga. Teolog i ilustrator Bojan Jokanović približio je pravopisna pravila mališanima, ali i starijim generacijama, na zabavan i jednostavan način. Uz knjigu i kartice ne samo da ćete rešiti sve jezičke nedoumice već ćete postati pravi eksperti u poznavanju pravopisa.
 				
                                            </p>
                                         </details>
                                     <div class="text-right">
-                                        <p>26.12.2018.</p>
+                                        <p>12.12.2019.</p>
                                       </div>
                                       </div>
                                     </div>
@@ -50,21 +49,18 @@ require "korisnik/template/header.php";
 								  <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
                                     <div class="thumbnail">
                                       <div class="post_title">
-                                        Odrastanje u kući punoj knjiga u velikoj meri podstiče pismenost i matematičke sposobnosti
+                                      PROMOCIJA ROMANA POSLJEDNJI MUŠKARAC MUHAREMA BAZDULJA
                                       </div>
-                                      <img src="img/polica.jpg" class="img-responsive" alt="negujemo" style="border-radius:8px;">
+                                      <img src="http://www.knjizare-vulkan.rs/files/images/900_SAJT_BAZDULJ_PROMOCIJA.jpg" class="img-responsive" alt="negujemo" style="border-radius:8px;">
                                       <div class="caption">
                                         <p>
-										Podaci istraživanja na uzorku od 160.000 ljudi iz 31 zemlje pokazuju da su zahvaljujući bogatim kućnim bibliotekama tinejdžeri koji su ranije napustili školu imali iste veštine kao i diplomirani studenti koji ne čitaju knjige.
+										Pozivamo vas na promociju i potpisivanje novog romana Posljednji muškarac Muharema Bazdulja koja će biti organizovana u četvrtak, 12. decembra
                                         </p>
                                         <details><summary>Opširinije</summary>
-                                        <p> „Izloženost knjigama u adolescenciji sastavni je deo društvenog ponašanja koje stimuliše dugoročne kognitivne sposobnosti – pismenost, matematičke i informatičke sposobnosti“, stoji u tekstu. „Odrastanje uz kućne biblioteke podstiče veštine iz ovih oblasti u kasnijem dobu, i to u mnogo većoj meri nego što na to utiče obrazovanje roditelja ili sopstveno obrazovanje i profesionalno iskustvo.“
-											<br>
-											Istraživači su otkrili da ispitanici koji su odrastali u domovima u kojima gotovo da nije bilo knjiga na testovima postižu rezultate ispod proseka. Ispitanici iz domova u kojima je bilo približno 80 knjiga, postizali su prosečne rezultate, ali biblioteke sa 350 i više knjiga „nisu značajno podigle nivo pismenosti“. Isto se odnosi i na informatičke sposobnosti, ali razlike nisu toliko velike.
-                                           </p>
+                                        <p> Romanom Posljednji muškarac Muharem Bazdulj je potvrdio zbog čega je jedan od najčitanijih pisaca današnjice. Ovo romaneskno ostvarenje razlikuje se od prethodnih pre svega po tome što je pisac uspeo da dočara tonalitet života. Reč je o distopijskom, futurističkom romanu, čija se radnja dešava u bliskoj budućnosti, tačnije 2027. godine, u Beču
                                         </details>
                                     <div class="text-right">
-                                        <p>25.12.2018.</p>
+                                        <p>25.12.2019.</p>
                                       </div>
                                       </div>
                                     </div>
@@ -72,25 +68,19 @@ require "korisnik/template/header.php";
                                 <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
                                     <div class="thumbnail">
                                       <div class="post_title">
-                                        Život i doba Malog Groma
+                                      PROMOCIJA AUTOBIOGRAFSKOG ROMANA NENADA PAGONSA
                                       </div>
-                                      <img src="img/123.jpg" class="img-responsive" alt="negujemo" style="border-radius:8px;">
+                                      <img src="http://www.knjizare-vulkan.rs/files/images/900px-BG.jpg" class="img-responsive" alt="negujemo" style="border-radius:8px;">
                                       <div class="caption">
                                         <p>
-                                          Topla i grohotno smešna, puna njegovih jedinstvenih, savršenih zapažanja, knjiga Život i doba Malog Groma čudesna je koliko i sve druge koje je Bil Brajson napisao. Opčiniće svakog ko je bio mlad.
-
-                                          „Izuzetno smešno (ne za kikot već za cerekanje sve dok vam se ne zaplače).“ Daily Telegraph
+                                        Pozivamo vas na promociju autobiografskog romana U ringu sa životom našeg čuvenog kik boksera, Nenada Pagonisa
                                         </p>
                                         <details><summary>Opširinije</summary>
-                                        <p>Putovanja kroz moje detinjstvo.
-
-                                          Iz pera jednog od najomiljenijih svetskih pisaca i autora bestselera New York Timesa, ovo je živo, nostalgično i urnebesno prisećanje na odrastanje pedesetih godina dvadesetog veka.</p><p>
-
-                                          Bil Brajson je rođen usred američkog veka – 1951, usred Sjedinjenih Država – u De Mojnu, u državi Ajova, usred najveće generacije u američkoj istoriji –bejbi-bum generacije. Kao jedan od najboljih i najzabavnijih živih pisaca, on je u savršenom položaju da prebira po svojim sećanjima na detinjstvo kako bi izvukao na svetlo dana memoarsko čisto zlato. Poput miliona svojih vršnjaka, Bil Brajson je odrastao kao superjunak u svom izmaštanom svetu: trčao je po kući i komšiluku u starom fudbalskom dresu sa nacrtanom munjom i sa peškirom oko vrata koji mu je služio kao plašt, jednim skokom preskakao visoke zgrade i pobeđivao zlotvore (i morone) – u svojoj glavi – kao Mali Grom. 
+                                        <p>Nenad Pagonis je desetostruki šampion sveta u kik boksu i profesionalni bokser, u kom je karijeru započeo sa svim pobedama. Trenutno je najuspešniji kik-bokser svih vremena u Srbiji. Nenad je do sada bio deset puta prvak sveta i više puta prvak Evrope, dobitnik je desetina prestižnih nagrada kao najuspešniji sportista poslednjih 10 godina u Srbiji.
                                            </p>
                                         </details>
                                     <div class="text-right">
-                                        <p>24.12.2018.</p>
+                                        <p>24.12.2019.</p>
                                       </div>
                                       </div>
                                     </div>
@@ -99,21 +89,22 @@ require "korisnik/template/header.php";
                                   <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
                                     <div class="thumbnail">
                                       <div class="post_title">
-                                        Nova knjiga: Ženski razgovori
+                                      PROMOCIJA KNJIGE BOJANA JOKANOVIĆA U KNJIŽARI VULKAN SC PROMENADA
                                       </div>
-                                      <img src="img/zr.jpg" class="img-responsive" alt="negujemo" style="border-radius:8px;">
+                                      <img src="http://www.knjizare-vulkan.rs/files/images/sizif-900.jpg" class="img-responsive" alt="negujemo" style="border-radius:8px;">
                                       <div class="caption">
                                         <p>
-                                         Ljubav se ne sme terati i izbijati iz žene – jer to je žena! To je ono glavno u ženi, onaj njen glavni životni sok!
-                                          Muškarci mogu biti kakvi hoće i ne treba za to da brinu! Žene će ih voleti, bez obzira...! Žensko srce stalno gori i svako ko mu priđe može se ogrejati!
+                                        Pozivamo sve borce za pravopis da nam se pridruže na potpisivanju knjige Bojana Jokanovića 100 Sizifovih pravopisnih pravila 
                                         </p>
                                         <details><summary>Opširinije</summary>
                                         <p>
-                                          Zbirka duhovitih priča iz ugla različitih žena (i muškaraca) o ljubavi, sreći i zajedničkom življenju. Posmatrajući muški svet iz ženske perspektive u dramskim crticama, Radović kroz humor ali i gorčinu analizira ono što svakodnevno živimo. Ironična ali dobrodušna, knjiga u kojoj će se svako pronaći.
+                                        Knjiga 100 Sizifovih pravopisnih pravila i edukativne karte Sizifova pravopisna pravila bile su najprodavanije na ovogodišnjem Međunarodnom beogradskom sajmu knjiga. Teolog i ilustrator Bojan Jokanović približio je pravopisna pravila mališanima, ali i starijim generacijama, na zabavan i jednostavan način. Uz knjigu i kartice ne samo da ćete rešiti sve jezičke nedoumice već ćete postati pravi eksperti u poznavanju pravopisa.
+
+Gde god da se pojavi, autor Bojan Jokanović izaziva veliko interesovanje javnosti. Kako kaže, mnogo ljubavi, znanja i truda uložio je u borbu za pravopis srpskog jezika. Za postignut uspeh skromno kaže da su zaslužni svi oni koji su prepoznali njegovu ljubav i istinsku borbu. Jokanovićev rad na društvenim mrežama prati više od osamdeset hiljada ljudi. 
                                            </p>
                                         </details>
                                     <div class="text-right">
-                                        <p>23.12.2018.</p>
+                                        <p>23.12.2019.</p>
                                       </div>
                                       </div>
                                     </div>
@@ -122,29 +113,25 @@ require "korisnik/template/header.php";
 
                                       <div class="thumbnail">
                                         <div class="post_title">
-                                          Akcija "Negujmo srpski jezik"
+                                        Bliži se tradicionalni Black Friday i za tu priliku smo vam pripremili specijalne popuste.
                                         </div>
-                                        <img src="img/post3.jpg" class="img-responsive" alt="negujemo" style="border-radius:8px;">
+                                        <img src="http://www.knjizare-vulkan.rs/files/images/900-TOP-20.jpg" class="img-responsive" alt="negujemo" style="border-radius:8px;">
                                         <div class="caption">
                                           <p>
-                                          U okviru obeležavanja desetogodišnjice uspešnog rada Fakulteta za umetnost i dizajn,
-                                           u biblioteke BookCorner otvorena je izložba najboljih studentskih
-                                           radova iz oblasti primenjenih umetnosti i dizajna.
+                                          Bliži se tradicionalni Black Friday i za tu priliku smo vam pripremili specijalne popuste.
                                           </p>
                                           <details>
 
                                             <summary>Opširinije</summary>
-                                          <p>Izložbu je prigodnim rečima otvorio prof. dr Slobodan Pajović, rektor univerziteta,
-                                             a o programima Fakulteta, saradnji sa domaćim i inostranim privrednim subjektima i
-                                             uspesima diplomiranih studenata ove ustanove govorili su prof. Miloš Šobajić, dugogodišnji dekan,
-                                             i prof. Jelena Vojvodić – Ivanović, sadašnji dekan FUD – a.
-                                          Rektor Pajović i prof. Vojvodić – Ivanović su potom uručili nagrade najboljim studentima Fakulteta
-                                          za umetnost i dizajn.Priznanja su primili: Ines Glavaš, Milica Petronijević,
-                                          Kristina Ivanović, Danilo Mladenović.
+                                          <p>Za najmlađe smo pripremili zasebnu TOP 10 akciju na kojoj će deset naslova moži da se kupi u pola cene 29. novembra.
+
+Posetite Vulkan knjižare i ostvarite neverovatne popuste kupovinom naslova koji su osvojili srca čitalaca širom regiona!
+
+Naoružajte se strpljenjem i dobrim raspoloženjem - svetski bestseleri uskoro će ukrasiti i vaše police!
                                              </p>
                                           </details>
                                       <div class="text-right">
-                                          <p>23.12.2018.</p>
+                                          <p>23.10.2018.</p>
                                         </div>
                                         </div>
                                       </div>
@@ -187,44 +174,47 @@ require "korisnik/template/header.php";
                               <h2>Zanimljivosti</h2>
                                   <br>
                           <h4><a href="https://leutar.net/2018/10/23/knjige-koje-obavezno-morate-procitati-20-naslova-srpskih-pisaca-za-koje-svako-mora-da-zna" target="_blank">
-                            KNJIGE KOJE MORATE OBAVEZNO PROČITATI: 20 naslova srpskih pisaca</a></h4>
+                          ISPORUKA PORUDŽBINA U VREME PRAZNIKA</a></h4>
                           <div class="sidebar_text">
-                          Za vas izdvajamo 20 romana naših pisaca za koje smatramo da ih nikako ne smete zaobići! Spadaju u najlepša i najvrednija dela srpske književnosti, te ako ih do sada niste čitali, potražite ih u najbližim bibliotekama ili knjižarama. Knjiga je svakako čovekov najbolji prijatelj, a hladno i kišno vreme koje nam predstoji idealno je da se izbegne u toplom i udobnom kutku sobe, sa knjigom u krilu.                          </div>
+                          Poštovani kupci,
+
+Zbog povećanog obima posla kurirskih službi u vreme novodišnjih i božićnih praznika i problema sa isporukom u širem centru Beograda, rok za isporuku biće produžen za jedan broj online porudžbina.
+
+Za porudžbine koje su kreirane nakon 25. decembra ostavljamo mogućnost da ne budu uručene do 31. decembra.
+
+Porudžbine kreirane od 28. decembra biće na isporuci od 8. januara. 2020. godine.
+ 
+
+Hvala na razumevanju i strpljenju.
+
+Srećne praznike žele vam Vaše Knjižare Vulkan.                          </div>
                           <hr>
 
 
                           <h4><a href="http://www.nedeljnik.rs/magazin/portalnews/top-pet-knjiga-koje-treba-da-procitate-pre-nego-sto-odgledate-film/" target="_blank">
-                          Top pet knjiga koje treba da pročitate pre nego što odgledate njihove ekranizacije</a></h4>
+                          PRAZNIČNO DARIVANJE - POKLON AKCIJA</a></h4>
                             <div class="sidebar_text">
-                          Bogata je lista knjiga koje će ove godine biti adaptirane na filmskim platnima. Pred vama su neke od knjiga koje, najpre, vredi pročitati i doživeti na svoj način, pre nego što odgledate verzije čiji nastanak su nadgledali producenti u panici zbog premalo krvi i previše seksa - jer, znaju oni šta se "prodaje"
+                            Praznici su vreme darivanja, a Vulkan izdavaštvo pripremilo je najlepše poklone za vas i vaše najdraže! Kupovinom dve knjige od tri odabrana praznična naslova, samo u knjižarama Vulkan i sajtu, na poklon dobijate i slatko iznenađenje Ferrero Rocher. Velika praznična akcija traje od 17. decembra 2019. godine do 10. januara 2020. godine. 
+
+Ako i dalje verujete u čarolije, Mala prodavnica čuda je prava knjiga za vas! Ovaj neverovatni roman odvešće vas na mesto gde se snovi ostvaruju i nemoguće postaje moguće: Papa Džekov emporijum igračaka. Papa Džek godinama pravi i prodaje nadaleko poznate čarobne igračke: drvene konjiće, šarene krpene kuce i mede, kutije za igračke koje su iznutra veće nego što izgledaju, papirno drveće koje raste iz kutija, limene vojnike koji vode svoje bitke... Sada su njegovi sinovi Kaspar i Emil dovoljno odrasli da se pridruže porodičnom poslu. Kada u njihovu porodicu dođe mlada Keti, ranjiva i bez krova nad glavom, emporijum će je dočekati raširenih ruku. Čitajući neponovljivu avanturu, zajedno sa Keti otkrijte kakve tajne krije magična prodavnica igračaka i po čemu je posebna. 
+
+Ukoliko ste ljubitelji klasika, osvojiće vas vanvremenski dragulj humora i emocija Princeza nevesta. Nekada davno, u vreme velikih avantura i velikih ljubavi, lepotica kakve nije bilo ni u jednom kraljevstvu, divna i predivna Ljutićka, zaljubila se u sirotana Vestlija. Kad on pođe u svet kako bi se obogatio, obećava joj da će se vratiti, a ona se zavetuje da nikada neće voleti drugog. Ipak, sudbina je htela da njena nesvakidašnja lepota privuče pažnju princa Hamperdinka, beskrupuloznog čoveka kog ništa neće sprečiti u nameri da je uzme za ženu... To je samo početak ove jedinstvene priče o mačevanju, borbi, iskrenoj ljubavi, mržnji, osveti, divovima, dobrim ljudima, lošim ljudima, lepim gospama, zmijama, paucima, čudovištima, lažima, istini, strastima i drugim čudesima. 
+
+Treći naslov iz velike praznične akcije svrstava se u popularnu nauku. Reč je o svetskom bestseleru iz oblasti neuronauke koji nosi naziv Izvor. Najnovija otkrića iz neuronauke dokazuju da svako može da promeni način funkcionisanja svog mozga. Autorka dr Tara Svort otkriva kako da upotrebimo ogroman potencijal koji posedujemo, promenimo način gledanja na svet, prepoznamo i ugrabimo dobre prilike koje nam se svakodnevno pružaju i privučemo sve ono za čim žudimo: zdravlje, uspeh, ljubav, blagostanje... Tajna nije u misterioznim silama, već u neverovatnoj moći Izvora. Ovaj nesvakidašnji priručnik otvoriće vaš um i pomoći će da iskoristite sve svoje potencijale. 
+
+Da li ćete odabrati magičnu čaroliju, vanvremenski klasik ili knjigu iz oblasti popularne nauke? Izbor prepuštamo vama, a mi ćemo se pobrinuti da čitanje i najlepše doba godine budu još slađi! 
                           </div>
                           <hr>
 
                           <h4><a href="https://www.nb.rs/" target="_blank">
-                          Narodna biblioteka</a></h4>
+                          KNJIGE KAO NAJLEPŠI PRAZNIČNI POKLON</a></h4>
                           <div class="sidebar_text">
-                            Narodna biblioteka je osnovana 1832. godine i najstarija je ustanova kulture u Srbiji. Nastala je kao svojevrsni depozit knjiga, zatim bila biblioteka u sastavu (Knjaževsko-tipografijska biblioteka, Biblioteka Popečiteljstva prosveštenija), nakon toga je okupila više biblioteka javnih i državnih nadleštava i otkupila nekoliko privatnih biblioteka (Lukijana Mušickog, Josipa Šlezingera), da bi vremenom izrasla u nacionalnu biblioteku. </div>
+                          Tokom cele godine nestrpljivo iščekujemo novogodišnje i božićne praznike – vreme koje provodimo u krugu najbližih, pravimo planove i maštamo dok pripremamo najlepše poklone za nezaobilazno praznično darivanje!
+
+Kako bismo učinili najradosnije doba godine još lepšim, upravo zbog vas, u knjižarama Vulkan širom Srbije pripremili smo najnovije dečje knjige inspirisane predstojećim praznicima. Listajući šarene stranice čarobnih bajki i priča, mališani će upoznati svet junaka i uživati s njima u zimskim igrama – naučiće da prave Sneška Belića, klizaju se, sankaju i raduju prvim snežnim pahuljama. Knjige sa mnogo fantastičnih zadataka i aktivnosti dočaraće deci novogodišnje doba, a uz neverovatne nalepnice koje dolaze uz neke naslove, zabava je zagarantovana. Mališani će doživeti neverovatnu avanturu! Otkriće zašto je Deda Mraz tako poseban, upoznaće njegovu družinu i još mnogo toga. </div>
                           <hr>
 
-                          <h4><a href="http://knjizare.cu.rs/beograd/" target="_blank">
-                          Knjižare u Beogradu</a></h4>
-                          <div class="sidebar_text">
-                          Na ovom linku se možete informisati o svim knjižarama u Beogradu.
-                           </div>
-                          <hr>
-
-
-                          <h4><a href="http://portalmladi.com/ploce-i-knjige-su-coveku-identitet" target="_blank">
-                          Ploče i knjige su čoveku identitet</a></h4>
-                          <div class="sidebar_text">
-                            Na jednoj u nizu tribina koje prate izložbu „Jugoton – Istočno od raja“, okupljeni u Muzeju nauke
-                             i tehnike čuli su od novinara Teofila Pančića psihologiju i filozofiju sakupljanja ploča.
-                                <br>
-                              “Mi smo u stvari bili kolekcionari i svoje ploče dozivljavali kao svoj identitet. Na isti onaj način na koji
-                              o čoveku govori njegova lična biblioteka” rekao je Pančić publici.
-                            </div>
-
-                              <hr>
+                         
                   </div>
 
 	    </div>
